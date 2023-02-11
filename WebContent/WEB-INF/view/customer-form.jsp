@@ -14,6 +14,8 @@
 	Last name: <form:input path="lastName"/>
 	<form:errors path="lastName" cssClass="error"/>
 	<br/><br/>
+	<input type="submit" value="Submit"/>
+	<br/><br/>
 	</form:form>
 	</body>
 </html>
